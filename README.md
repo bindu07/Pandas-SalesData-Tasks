@@ -1,4 +1,4 @@
-# Pandas-SalesData-Science-Tasks
+# Pandas-SalesData-Tasks
 Set of real world data science tasks completed using the Python Pandas library.
 
 ## Setup
